@@ -1,2 +1,10 @@
-# Nestjs Session-Based Authentication
-It works-ish.
+# Nestjs Session-Based Authentication 🤘
+## Setting up for development
+Install package dependencies 📦
+```
+> npm install
+```
+Build 🏗
+```
+> npm run start
+```
