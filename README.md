@@ -16,5 +16,5 @@ Create a .env file by duplicating the .env.example file and then replace the dat
 ```
 And
 ```
-> npx prisma db pusg
+> npx prisma db push
 ```
